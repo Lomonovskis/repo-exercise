@@ -1,1 +1,4 @@
-text in result.txt
+iext in result.txt
+i started changes 
+:x
+
