@@ -1,4 +1,9 @@
-ddddddd
+Another lin
+
+changes into already indexed file
+
+e
+dddddd
 iext in result.txt
 i started changes 
 :x
